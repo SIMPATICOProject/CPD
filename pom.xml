@@ -14,7 +14,7 @@
     <properties>
         <main.verticle>it.beng.modeler.microservice.ModelerConfigVerticle</main.verticle>
         <flowable.version>6.4.0</flowable.version>
-        <h2.version>1.4.190</h2.version>
+        <h2.version>2.0.206</h2.version>
     </properties>
     <profiles>
         <profile>
